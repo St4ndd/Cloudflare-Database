@@ -88,6 +88,7 @@ public class CloudflareDatabase
         {
             response.StatusCode = 500;
             await response.OutputStream.WriteAsync(System.Text.Encoding.UTF8.GetBytes($"Error: {e.Message}"));
+            
         }
     }
 }
