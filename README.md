@@ -1,4 +1,4 @@
-# Simple-Cloudflare-D1-Database
+# COMFY UI FOR GOOGLE COLAB
 
 
 ## 1. Create a Cloudflare Worker
